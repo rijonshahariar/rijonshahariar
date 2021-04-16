@@ -1,7 +1,7 @@
 
 ### Hi there, I'm [Shahariar Rijon][website1] 👋
 
-## I'm  Programmar, Developer, Blogger, and Student!
+## I'm  Programmer, Developer, Blogger, and Student!
 - 🔭 I’m currently working as Programmar
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
