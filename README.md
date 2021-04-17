@@ -2,18 +2,16 @@
 ### Hi there, I'm [Shahariar Rijon][website1] 👋
 
 ## I'm  Programmer, Developer, Blogger, and Student!
-- 🔭 I’m currently working as Programmar
+- 🔭 I’m currently working as a Programmer
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play GTA V, write blogs, create awesome code
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Rijon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website2]
+[<img align="left" alt="Rijon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rijon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -70,8 +68,8 @@
 -->
 
 [website1]: https://www.rijonistic.xyz
-[website2]: https://dipeshpal.com
-[twitter]: https://twitter.com/dipesh17pal
-[youtube]: https://youtube.com/dipeshpal17
-[instagram]: https://instagram.com/dipesh_pal17
-[linkedin]: https://linkedin.com/in/dipesh-pal-a34952110
+[website2]: https://www.rijonistic.xyz
+[twitter]: 
+[youtube]: 
+[instagram]: https://www.instagram.com/rijonistic/
+[linkedin]: https://www.linkedin.com/in/shahariar-rijon/
