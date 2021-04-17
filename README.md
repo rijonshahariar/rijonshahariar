@@ -43,13 +43,13 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Articles
 <!-- YOUTUBE:START -->
-- [Realme Buds Q Review after 3 Months Is it worth buying?](https://www.youtube.com/watch?v=GUM6GFmIdHI)
-- [Hostinger vs Godaddy How to choose Hosting and Domain Watch this video before buying Hosting/ Domain](https://www.youtube.com/watch?v=tGNB41tfTa8)
-- [Face Recognition with Python, Deep Learning in 5 Lines 10 Minute](https://www.youtube.com/watch?v=EU0LHtEJTnE)
-- [How to choose the best hosting for your website | How to buy Domain and Hosting](https://www.youtube.com/watch?v=4iaqc0GcqOI)
-- [Install Resurrection Remix in OP7 and OP7 Pro | Review and Installation](https://www.youtube.com/watch?v=pmUiKtlUgxA)
+- [How to Learn Web Design and Development?](https://www.rijonistic.xyz/2020/10/learn-web-development.html)
+- [Why You Should Learn PHP in 2021?](https://www.rijonistic.xyz/2021/04/why-you-should-learn-php.html)
+- [Beginner Tips & Guide To Start Learning Python In Easy Way](https://www.rijonistic.xyz/2021/03/learn-python-the-easy-way.html)
+- [Top 5 Websites to Learn Programming for Free in 2021](https://www.rijonistic.xyz/2021/03/five-best-website-for-learn-programming.html)
+- [5 Number Related Python Coding Problems With Solutions](https://www.rijonistic.xyz/2021/03/number-related-python-coding-problems.html)
 <!-- YOUTUBE:END -->
 
 ---
