@@ -64,7 +64,7 @@
 -->
 
 [website1]: https://www.rijonwd.web.app
-[website2]: 
+[website2]: https://www.rijonwd.web.app
 [twitter]: 
 [youtube]: 
 [instagram]: https://www.instagram.com/rijonistic/
