@@ -54,7 +54,7 @@
 ### More About Me
 
 
-- www.rijonistic.xyz
+- www.rijonwd.web.app
 
 ---
 <!--
@@ -63,8 +63,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipeshpal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[website1]: https://www.rijonistic.xyz
-[website2]: https://www.rijonistic.xyz
+[website1]: https://www.rijonwd.web.app
+[website2]: 
 [twitter]: 
 [youtube]: 
 [instagram]: https://www.instagram.com/rijonistic/
