@@ -1,10 +1,10 @@
 
 ### Hi there, I'm [Shahariar Rijon][website1] 👋
 
-## I'm  Programmer, Developer, Blogger, and Student!
+## I'm  a Programmer, Developer, Blogger, and Student!
 - 🔭 I’m currently working as a Programmer
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play GTA V, write blogs, create awesome code
 
 
