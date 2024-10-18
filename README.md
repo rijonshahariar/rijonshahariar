@@ -1,11 +1,15 @@
 
-### Hi there, I'm [Shahariar Rijon][website1] 👋
+# Hi there, I'm [Shahariar Rijon][website1] 👋
 
-## I'm  a Frontend Developer and Blogger!
-- 🔭 I’m currently working as a frontend developer
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play GTA V, write blogs, create awesome code
+## 🚀 Frontend Developer | 📚 Blogger | 🎮 Tech Enthusiast
+- 🔭 Currently turning coffee into code as a frontend dev.
+- 🌱 Always learning something new (because why not?!).
+- 🥅 2024 Goal: Dive deeper into open source and make cool stuff the world can use.
+- ⚡ Fun fact: I balance my life between creating awesome web stuff, and owning the streets of Los Santos in GTA V!
+## What I’m all about
+- 🤔 Solving problems one bug at a time while trying not to lose my sanity (mostly succeeding... kinda).
+- 💡 Always up for a challenge, a conversation, or a new movie!
+#### 💬 Reach out to me for anything related to frontend development, open source, or even just to talk about the latest movie releases!
 
 <!--
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='50'/>&nbsp;Technologies that I know</h2>
@@ -41,7 +45,7 @@ YOUTUBE:START
 - [5 Number Related Python Coding Problems With Solutions](https://www.rijonistic.xyz/2021/03/number-related-python-coding-problems.html)
 <!-- YOUTUBE:END -->
 
----
+
 
 <!--
 ### More About Me
