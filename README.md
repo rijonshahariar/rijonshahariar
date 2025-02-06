@@ -1,15 +1,3 @@
-![👋 Hi, my name is Shahariar Rijon](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Shahariar Rijon
-      </h1>
-    </summary>
-  </ul>
-</div>
-
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://codeforces.com/profile/shahariar.rijon" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/rijonshahariar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/shahariar-rijon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
@@ -18,7 +6,7 @@
 ## Rapid Fire
 - 🔭 Currently turning coffee into code as a frontend dev.
 - 🌱 Always learning something new (because why not?!).
-- 🥅 2024 Goal: Dive deeper into open source and make cool stuff the world can use.
+- 🥅 2025 Goal: Dive deeper into open source and make cool stuff the world can use.
 - ⚡ Fun fact: I balance my life between creating awesome web stuff, and owning the streets of Los Santos in GTA V!
 ## What I’m all about
 - 🤔 Solving problems one bug at a time while trying not to lose my sanity (mostly succeeding... kinda).
