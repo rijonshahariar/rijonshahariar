@@ -1,12 +1,12 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://codeforces.com/profile/shahariar.rijon" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/rijonshahariar" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/shahariar-rijon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Frontend Developer | 📚 Blogger | 🎮 Tech Enthusiast</h3>**
+ **<h3 align="left">🚀 Full stack Developer | 📚 Blogger | 🎮 Tech Enthusiast</h3>**
 
 ## Rapid Fire
 - 🔭 Currently turning coffee into code as a frontend dev.
 - 🌱 Always learning something new (because why not?!).
-- 🥅 2025 Goal: Dive deeper into open source and make cool stuff the world can use.
+- 🥅 2026 Goal: Dive deeper into open source and make cool stuff the world can use.
 - ⚡ Fun fact: I balance my life between creating awesome web stuff, and owning the streets of Los Santos in GTA V!
 ## What I’m all about
 - 🤔 Solving problems one bug at a time while trying not to lose my sanity (mostly succeeding... kinda).
